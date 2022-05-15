@@ -1,4 +1,4 @@
 # SPC
 Statistical Process Control Charts (X-bar and R) are designed to monitor if the process is in-control or out-of-control through a statistical point of view. As Normal Distribution is characterized with two parameters, i.e. mean and standard deviation, the statistical process control charts also have to been constructed to cover these parameters. Therefore, x-bar chart is being utilized for monitoring the mean of the process data, whereas the R chart for scattering of the process data. Even if the mean of the data is located at the desired point, the scattering of the data might not meet the requirement, and vice versa. 
 
-Thanks to Central Limit Theorem, except very rare conditions, the mean of a data set follows Normal Distribution no matter which distribution the data follows. Therefore  monitoring the mean of the data guarantees the process to be *statistically* in control.
+Thanks to Central Limit Theorem, except very rare conditions, the mean of a data set follows Normal Distribution no matter which distribution the data follows. Therefore  monitoring the mean of the data guarantees the process to be ***statistically*** in control.
